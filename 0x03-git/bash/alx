@@ -1,6 +1,2 @@
 #!/bin/bash
-this is the main branch
 echo "ALX School is so cool!"
-need both versions
-echo "ALX School"
-this is the update_script branch
